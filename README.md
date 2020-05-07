@@ -27,5 +27,5 @@ pipenv install Flask flask_graphql
 python3 main.py 
 ~~~
 
-![imagen final](https://res.cloudinary.com/nelsonweb/image/upload/v1584930111/graphiql_dldzup.png)
+![flask y graphene](https://res.cloudinary.com/nelsonweb/image/upload/v1586358271/graphiql_vvlby6.png)
 
